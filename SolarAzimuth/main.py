@@ -3,7 +3,7 @@ import pandas as pd
 from pvlib import solarposition
 from datetime import timedelta
 
-# Coordendas do Cartaxo
+# Coordenadas do Cartaxo
 latitude = 39.10
 longitude = -8.80
 tz = 'UTC'
